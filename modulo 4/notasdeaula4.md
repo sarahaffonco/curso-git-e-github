@@ -37,5 +37,10 @@ git add .
 
 git commit 
 
-configurar upstream 
+configurar upstream, abrir no git hub para confirmar **sempre veririficar se esta enviando no fork correto**
+
+excluir pull requeste, apenas teste (pode-se excluir diretamente no git hub)
+
+
+
 
