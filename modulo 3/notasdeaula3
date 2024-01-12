@@ -23,6 +23,12 @@ git checkout nome da branch
 
 *commit para ver as alterações 
 
+excluir um branch no local
+git branch -d modulo -3 nomeDoBranchLocal
+
+excluir um branch remoto
+git push origin --delete modulo-3 nomeDoBranchRemoto
+
 ### criar branch no github
 
 entre no repertório > main > view all branches > new branch
