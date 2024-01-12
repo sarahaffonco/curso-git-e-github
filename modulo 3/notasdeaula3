@@ -7,7 +7,7 @@ Homolog - onde é validada e solucionada
 
 Master - público, qualquer pessoa pode acessar.
 
-### criando a branch 
+### criando a branch no vscode
 
 comando para criar branch
 
@@ -18,9 +18,15 @@ git status - estará limpo, se houver alteração irá aparecer
 **verificar as branchs criadas **
 git branch (a branch com * é a atual)
 
-voltar para outra branch
+voltar para outra branch 
 git checkout nome da branch
 
 *commit para ver as alterações 
 
+### criar branch no github
+
+entre no repertório > main > view all branches > new branch
+
+para deletar 
+view all branches> deleted branch
  
