@@ -35,10 +35,14 @@ entre no repertório > main > view all branches > new branch
 
 para deletar 
 view all branches> deleted branch
- 
- git pull *verifica se há alteraçoes*
+
+
+git pull *verifica se há alteraçoes*
  
  git merge *nome da pasta*
 
  git status *verifica se tem alterações não salvas *
 git push *"casa" as informações das branchs*
+
+*voce pode sincronizar as informaçõ no próprio vscode 
+sourcer control - commit antes - e click no botão sync changes
