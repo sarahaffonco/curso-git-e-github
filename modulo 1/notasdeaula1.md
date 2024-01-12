@@ -42,7 +42,8 @@ git init
 
 criar pastas e documentos conforme necessário 
 
-crtl+s salva alterações do documento
+ctrl+s salva alterações do documento
+ctrl + k +s
 
 
 
