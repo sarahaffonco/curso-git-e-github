@@ -1,0 +1,26 @@
+### trabalhando com as branchs 
+branch é uma separação de código que permite alterações simultaneas (colaboração)
+
+Develop - utilizada para desenvolver, testar para depois disponibilzar
+
+Homolog - onde é validada e solucionada
+
+Master - público, qualquer pessoa pode acessar.
+
+### criando a branch 
+
+comando para criar branch
+
+git checkout -b "nome-da-branch"
+
+git status - estará limpo, se houver alteração irá aparecer
+
+**verificar as branchs criadas **
+git branch (a branch com * é a atual)
+
+voltar para outra branch
+git checkout nome da branch
+
+*commit para ver as alterações 
+
+ 
