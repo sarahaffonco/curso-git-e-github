@@ -29,4 +29,13 @@ configura upstream com a branch nova (copia a msg do git push)
 
 cria a pull request, "creat pull request" convert to drive *para nao mergear e permite alterações*
 
+______ criar nova branch
+
+teste pr - demonstrar como fica a pr em um fork
+
+git add .
+
+git commit 
+
+configurar upstream 
 
