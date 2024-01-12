@@ -44,13 +44,7 @@ criar pastas e documentos conforme necessário
 
 crtl+s salva alterações do documento
 
-### git push
 
-**primeiro se faz o upstream - para configurar e alinhas informações com github
-
-git push --set-upstream origin *main* ou *master* conforme configuração do seu github
-
-♥ prontinho, tudo está no github ♥
 
 
 

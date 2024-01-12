@@ -39,3 +39,12 @@ registro dos comandos, tem codigo unico de uma alteraçao (utilizado para desfaz
 
 git commit -m "nome"
 
+### git push
+
+**primeiro se faz o upstream - para configurar e alinhas informações com github
+
+git push --set-upstream origin *main* ou *master* conforme configuração do seu github
+
+♥ prontinho, tudo está no github ♥
+
+no github as abas "main" se refere as branchs (próximas aulas )
