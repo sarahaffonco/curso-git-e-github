@@ -23,7 +23,7 @@ code .
 -- se o vsCode não estiver configurado, configurar 
 
 
-file>preferences>settings>oppensettings(jason), colar o código a baixo
+file>preferences>settings>oppensettings(json), colar o código a baixo
 "terminal.integrated.defaultProfile.windows": "Git Bash",
 "terminal.integrated.tabs.enabled": true,
 
