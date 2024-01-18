@@ -48,3 +48,12 @@ git push --set-upstream origin *main* ou *master* conforme configuração do seu
 ♥ prontinho, tudo está no github ♥
 
 no github as abas "main" se refere as branchs (próximas aulas )
+
+para desfazer o commit 
+Caso não tenha feito o commit ainda, utilize:
+
+git reset <arquivo-ou-diretório>
+Caso já tenha realizado um commit, utilize:
+
+git rm --cached <arquivo>
+git rm -r --cached <diretório>
