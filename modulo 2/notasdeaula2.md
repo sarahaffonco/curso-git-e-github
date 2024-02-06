@@ -1,4 +1,4 @@
-criar o repositório no github
+#criar o repositório no github
 
 verificar se tem algum repositório remoto
 

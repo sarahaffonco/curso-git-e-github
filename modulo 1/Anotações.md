@@ -9,7 +9,7 @@ verifica se os comandos foram corretos
 git config --list
 o e-mail e nome aparecem na lista de configurações
 
-criando repositório 
+criando repositório no git bash
 mkdir "nome"
 
 verficar se o diretório foi aberto - ls
