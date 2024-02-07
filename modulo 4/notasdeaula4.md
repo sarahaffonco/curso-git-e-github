@@ -53,3 +53,12 @@ excluir pull requeste, apenas teste (pode-se excluir diretamente no git hub)
 
 
 
+## gist no github
+compartilha códigos, arquivos de forma instantanea.
+
+
+## mais
+
+https://cursos.alura.com.br/course/git-github-branching-conflitos-pull-requests
+
+https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer?_gl=1*dtlxir*_ga*Njg0ODAwNjc3LjE3MDUwNTg5OTA.*_ga_1EPWSW3PCS*MTcwNzMwOTEzNi4xOC4xLjE3MDczMTExMzIuMC4wLjA.*_fplc*dUFQYnpmNnpSMXYyJTJCTVNOVnpNREFnenFEU1VPWHBhM2YyZFc3dklvcnJFb0NDOGRhaEEzZTgzdDM5bldtMnY5S1M0SUg0UHBmd1pHcUI2Mm1xbVFzdVZQU0k0WWJ5N1I3SmZINDJsMk5TNUNNelpaQSUyRk0lMkZjT0R2eVR1R1h3JTNEJTNE
