@@ -1,5 +1,9 @@
-# WoMakersCode
+Repositório de Anotações
+Esse repositório foi criado com objetivo de treinar e alocar material para consulta durante meu processo de aprendizado. 🌞
 
-Anotações da aula 
+Estão descritas anotações das aulas onde inicei minha transição de carreira:
 
-Passo a passo dos comandos básicos do git e github
+📕BootCamp Back-End Python e Django oferecido pela WoMakersCode — Mulheres na Tecnologia.
+
+📘 Formação iniciante em Programação T6 oferecido pela Alura - ONE.
+
